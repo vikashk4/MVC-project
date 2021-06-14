@@ -1,0 +1,44 @@
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\ModelAccessLayer.dll
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\ModelAccessLayer.pdb
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\vikas\source\repos\TestUserApp\DataAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\EntityFramework.dll
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\ModelAccessLayer.dll
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\ModelAccessLayer.pdb
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\EntityFramework.xml
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Test Website git\MVC project\DataAccessLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Test Website git\MVC project\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+F:\Test Website git\MVC project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Test Website git\MVC project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+F:\Test Website git\MVC project\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Test Website git\MVC project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

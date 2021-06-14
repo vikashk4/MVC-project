@@ -1,0 +1,12 @@
+C:\Users\vikas\source\repos\TestUserApp\ModelAccessLayer\bin\Debug\ModelAccessLayer.dll
+C:\Users\vikas\source\repos\TestUserApp\ModelAccessLayer\bin\Debug\ModelAccessLayer.pdb
+C:\Users\vikas\source\repos\TestUserApp\ModelAccessLayer\obj\Debug\ModelAccessLayer.csprojAssemblyReference.cache
+C:\Users\vikas\source\repos\TestUserApp\ModelAccessLayer\obj\Debug\ModelAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vikas\source\repos\TestUserApp\ModelAccessLayer\obj\Debug\ModelAccessLayer.dll
+C:\Users\vikas\source\repos\TestUserApp\ModelAccessLayer\obj\Debug\ModelAccessLayer.pdb
+F:\Test Website git\MVC project\ModelAccessLayer\bin\Debug\ModelAccessLayer.dll
+F:\Test Website git\MVC project\ModelAccessLayer\bin\Debug\ModelAccessLayer.pdb
+F:\Test Website git\MVC project\ModelAccessLayer\obj\Debug\ModelAccessLayer.csprojAssemblyReference.cache
+F:\Test Website git\MVC project\ModelAccessLayer\obj\Debug\ModelAccessLayer.csproj.CoreCompileInputs.cache
+F:\Test Website git\MVC project\ModelAccessLayer\obj\Debug\ModelAccessLayer.dll
+F:\Test Website git\MVC project\ModelAccessLayer\obj\Debug\ModelAccessLayer.pdb
